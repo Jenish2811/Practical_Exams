@@ -146,6 +146,3 @@ def main_dashboard():
             
         else:
             print("Invalid choice. Please enter a number between 1 and 6.")
-if __name__ == "__main__":
-    sns.set_style("darkgrid") 
-    main_dashboard()
